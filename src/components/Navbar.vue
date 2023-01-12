@@ -1,6 +1,8 @@
 <template>
-    <div class="bg-red-900 h-12 text-white flex justify-center items-center">
-        Hello
+    <div class="bg-gray-900 h-12 py-8 text-white flex justify-center items-center font-Ubuntu text-4xl font-bold">
+        <div class="">
+            <img src="../assets/Logo.png" alt="" class="w-32">
+        </div>
     </div>
 </template>
 
